@@ -1,0 +1,24 @@
+{
+	id: "e5e75b27-aee8-4d42-adde-a9570f6adfcc"
+	type: "party"
+	owner: "402361e4-2db5-41c3-a0e0-e27ef65d86e1"
+	ranks: {
+		402361e4-2db5-41c3-a0e0-e27ef65d86e1: "owner"
+		e6859fb2-cc35-4984-8d44-e46947903a83: "member"
+		38ce5e1f-dd4f-4c5e-9985-1e33b48832b4: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "ESRSSTBA"
+		"ftbteams:color": "#FF597B"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1704548696469L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"ElSlayeRino\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "402361e4-2db5-41c3-a0e0-e27ef65d86e1", date: 1704548696479L, text: "{\"color\":\"green\",\"text\":\"Invited ShounenSaruman\"}" }
+		{ from: "402361e4-2db5-41c3-a0e0-e27ef65d86e1", date: 1704548696480L, text: "{\"color\":\"green\",\"text\":\"Invited TheBraveAstora\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1704549089090L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ShounenSaruman\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1704549122701L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"TheBraveAstora\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,16 @@
+{
+	id: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4"
+	type: "player"
+	player_name: "ShounenSaruman"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ShounenSaruman"
+		"ftbteams:color": "#59FAFF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 5L
+	}
+}

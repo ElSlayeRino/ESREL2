@@ -1,0 +1,14 @@
+{
+	id: "402361e4-2db5-41c3-a0e0-e27ef65d86e1"
+	type: "player"
+	player_name: "ElSlayeRino"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ElSlayeRino"
+		"ftbteams:color": "#596EFF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

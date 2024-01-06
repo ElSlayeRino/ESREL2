@@ -1,0 +1,16 @@
+{
+	id: "e6859fb2-cc35-4984-8d44-e46947903a83"
+	type: "player"
+	player_name: "TheBraveAstora"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TheBraveAstora"
+		"ftbteams:color": "#96FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 5L
+	}
+}
