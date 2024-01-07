@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_shovel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/concrete_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:05 +0800"
@@ -112,6 +118,12 @@
       "has_the_recipe": "2024-01-06 21:35:21 +0800"
     },
     "done": true
+  },
+  "vanillafoodpantry:mod/oddtastes": {
+    "criteria": {
+      "grilled_wolf_steaks": "2024-01-08 03:25:45 +0800"
+    },
+    "done": false
   },
   "cavesandcliffs:recipes/building_blocks/dripstone_block": {
     "criteria": {
@@ -518,6 +530,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -1145,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_stairs_from_concrete_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:04 +0800"
@@ -1394,6 +1418,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_alu_scaffolding_wooden_top": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:27 +0800"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-01-07 22:57:35 +0800"
     },
     "done": true
   },
@@ -1763,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-01-07 22:48:10 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/embellishcraft_group/slate_bricks_stairs_from_slate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:19 +0800"
@@ -1856,6 +1892,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -3251,6 +3293,12 @@
     },
     "done": true
   },
+  "buddycards:main/root": {
+    "criteria": {
+      "pack": "2024-01-07 23:49:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:12 +0800"
@@ -3326,6 +3374,12 @@
   "betterendforge:recipes/betterendforge/ender_block": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_helmet": {
+    "criteria": {
+      "has_steel": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -3791,6 +3845,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/blasting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2024-01-07 22:56:34 +0800"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_white": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:12 +0800"
@@ -3878,6 +3938,12 @@
   "minecraft:recipes/embellishcraft_group/jade_ornament_from_polished_jade_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -4283,6 +4349,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-01-08 02:30:51 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:05 +0800"
@@ -4439,6 +4511,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "steel": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/dark_large_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:09 +0800"
@@ -4592,6 +4670,12 @@
   "minecraft:recipes/embellishcraft_group/basalt_ornament_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:28 +0800"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2024-01-07 22:35:12 +0800"
     },
     "done": true
   },
@@ -4757,6 +4841,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-01-07 22:30:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/diorite_paving_stairs_from_diorite_paving_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:20 +0800"
@@ -4898,10 +4988,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-01-06 21:59:24 +0800",
+      "minecraft:magma_cube": "2024-01-08 01:52:30 +0800",
       "minecraft:spider": "2024-01-06 23:46:59 +0800",
       "minecraft:creeper": "2024-01-06 23:55:13 +0800",
       "minecraft:witch": "2024-01-06 23:59:04 +0800",
-      "minecraft:zombie": "2024-01-06 21:53:36 +0800"
+      "minecraft:cave_spider": "2024-01-07 22:57:34 +0800",
+      "minecraft:zombie": "2024-01-06 21:53:36 +0800",
+      "minecraft:zombie_villager": "2024-01-07 22:46:10 +0800"
     },
     "done": false
   },
@@ -4998,6 +5091,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/tag_workbench": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:09 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2024-01-08 00:51:06 +0800"
     },
     "done": true
   },
@@ -5367,6 +5466,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_chestplate": {
+    "criteria": {
+      "has_steel": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/vacuum_pump": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:16 +0800"
@@ -5619,6 +5724,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-01-07 23:25:22 +0800"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activefluidport_forge": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:08 +0800"
@@ -5628,6 +5739,12 @@
   "cavesandcliffs:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -6225,6 +6342,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_sword": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/concrete_tiles_slab_from_concrete_tiles_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:02 +0800"
@@ -6252,6 +6375,12 @@
   "embellishcraft:recipes/embellishcraft_group/gray_corrugated_metal_plate_fence": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:26 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -6318,6 +6447,12 @@
   "transport:recipes/decorations/minecraft_chain_from_forge_ingots_iron": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-01-08 03:11:30 +0800"
     },
     "done": true
   },
@@ -6903,6 +7038,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-01-07 23:57:39 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/weared_bricks_from_slabs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:18 +0800"
@@ -7266,6 +7407,12 @@
   "minecraft:recipes/embellishcraft_group/granite_button_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -9057,6 +9204,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2024-01-08 00:05:49 +0800"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:10 +0800"
@@ -9818,6 +9971,24 @@
       "has_cobblestone": "2024-01-06 23:48:25 +0800"
     },
     "done": true
+  },
+  "buddycards:main/complete_set1": {
+    "criteria": {
+      "card19": "2024-01-07 23:54:30 +0800",
+      "card14": "2024-01-07 23:51:56 +0800",
+      "card9": "2024-01-07 23:54:19 +0800",
+      "card13": "2024-01-07 23:54:30 +0800",
+      "card11": "2024-01-07 23:54:30 +0800",
+      "card18": "2024-01-07 23:51:55 +0800",
+      "card16": "2024-01-07 23:54:30 +0800",
+      "card25": "2024-01-07 23:51:55 +0800",
+      "card24": "2024-01-07 23:54:36 +0800",
+      "card23": "2024-01-07 23:51:55 +0800",
+      "card22": "2024-01-07 23:54:19 +0800",
+      "card26": "2024-01-07 23:54:30 +0800",
+      "card20": "2024-01-07 23:54:36 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/embellishcraft_group/lime_manual_table_lamp": {
     "criteria": {
@@ -11296,6 +11467,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-01-08 01:51:17 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sawdust": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:03 +0800"
@@ -11806,6 +11983,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-01-07 22:59:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:14 +0800"
@@ -12184,6 +12367,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker_block": {
+    "criteria": {
+      "has_plank": "2024-01-08 01:45:20 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/red_birch_fancy_bed": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:19 +0800"
@@ -12307,6 +12496,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/bandage": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:04 +0800"
+    },
+    "done": true
+  },
+  "cavesandcliffs:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-07 22:20:35 +0800"
     },
     "done": true
   },
@@ -12451,6 +12646,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:24 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_pickaxe": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -12607,6 +12808,12 @@
   "minecraft:recipes/embellishcraft_group/jade_ornament_from_jade_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
+    },
+    "done": true
+  },
+  "productivebees:recipes/decorations/obsidian_nest": {
+    "criteria": {
+      "has_item": "2024-01-07 22:59:34 +0800"
     },
     "done": true
   },
@@ -12838,6 +13045,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/larvikite_large_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:34:59 +0800"
@@ -12853,6 +13066,12 @@
   "littlelogistics:recipes/transportation/guide_rail_tug": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -13252,6 +13471,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-01-07 23:49:01 +0800"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:25 +0800"
@@ -13378,6 +13603,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/smelting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2024-01-07 22:56:34 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/slate_cobblestone_bricks_from_slabs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:10 +0800"
@@ -13441,6 +13672,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafting_grid": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -13606,6 +13843,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-01-07 23:21:13 +0800"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/lacugrove_chest": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:03 +0800"
@@ -13639,6 +13882,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:05 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_plate": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -13927,6 +14176,12 @@
   "embellishcraft:recipes/embellishcraft_group/polished_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:28 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_axe": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -15118,6 +15373,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_rod": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/basalt_cobblestone_bricks_pressure_plate_from_basalt_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:22 +0800"
@@ -15679,6 +15940,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/security_station": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-01-08 01:45:10 +0800"
     },
     "done": true
   },
@@ -16534,6 +16801,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-01-08 00:10:51 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/weared_bricks": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:09 +0800"
@@ -16861,6 +17134,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:15 +0800"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-01-07 22:29:48 +0800"
     },
     "done": true
   },
@@ -17842,6 +18121,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-07 23:57:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/basalt_cobblestone_bricks_wall_from_basalt_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
@@ -17971,6 +18256,12 @@
   "embellishcraft:recipes/embellishcraft_group/red_sandstone_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-01-07 22:26:29 +0800"
     },
     "done": true
   },
@@ -18126,7 +18417,10 @@
   },
   "vanillafoodpantry:mod/lazyforaging": {
     "criteria": {
-      "gathered_pumpkins": "2024-01-06 21:47:34 +0800"
+      "gathered_sweet_berries": "2024-01-08 01:08:54 +0800",
+      "gathered_pumpkins": "2024-01-06 21:47:34 +0800",
+      "gathered_oak_acorns": "2024-01-08 00:48:37 +0800",
+      "got_rocksalt_crystals": "2024-01-08 00:54:37 +0800"
     },
     "done": false
   },
@@ -18181,6 +18475,12 @@
   "embellishcraft:recipes/embellishcraft_group/beige_flower_wallpaper_stairs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:06 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -18592,6 +18892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-01-07 23:10:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/granite_rooftiles_stairs_from_granite_rooftiles_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:25 +0800"
@@ -18607,6 +18913,12 @@
   "mcwbridges:recipes/acacia_rope_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -19120,6 +19432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-01-08 00:05:12 +0800"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/oak_beam": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:22 +0800"
@@ -19147,6 +19465,12 @@
   "minecraft:recipes/embellishcraft_group/black_corrugated_metal_plate_stairs_from_white": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-08 00:05:49 +0800"
     },
     "done": true
   },
@@ -19183,6 +19507,12 @@
   "embellishcraft:recipes/embellishcraft_group/red_oak_fancy_bed": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:08 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -19366,6 +19696,12 @@
     },
     "done": true
   },
+  "happytrails:story/faster_faster": {
+    "criteria": {
+      "inv_changed-minecraft:stone_brick": "2024-01-07 23:49:12 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_reinforced": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:08 +0800"
@@ -19387,6 +19723,12 @@
   "embellishcraft:recipes/embellishcraft_group/light_gray_jungle_fancy_bed": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-07 22:48:09 +0800"
     },
     "done": true
   },
@@ -19440,6 +19782,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smithingtable": "2024-01-07 23:26:18 +0800",
       "blastfurnace": "2024-01-06 23:42:08 +0800"
     },
     "done": false
@@ -19501,6 +19844,12 @@
   "cavesandcliffs:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:34:59 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-01-08 00:22:58 +0800"
     },
     "done": true
   },
@@ -19675,6 +20024,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/white_controller": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:18 +0800"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-01-08 00:05:12 +0800"
     },
     "done": true
   },
@@ -20674,6 +21029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-01-07 22:36:19 +0800"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_prism_corner": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:16 +0800"
@@ -20749,6 +21110,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:27 +0800"
+    },
+    "done": true
+  },
+  "cavesandcliffs:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-01-07 23:02:47 +0800"
     },
     "done": true
   },
@@ -20851,6 +21218,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/orange_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:26 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_hoe": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -21610,6 +21983,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-01-08 03:11:30 +0800"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-01-08 01:32:35 +0800"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/misc/raw_copper": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:11 +0800"
@@ -21868,6 +22259,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_group/jade_large_bricks_stairs_from_jade_large_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:27 +0800"
@@ -22117,6 +22514,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_hammer": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:14 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_boots": {
+    "criteria": {
+      "has_steel": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -22378,6 +22781,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:09 +0800"
@@ -22411,6 +22820,12 @@
   "minecraft:recipes/embellishcraft_group/larvikite_cobblestone_bricks_slab_from_larvikite_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:26 +0800"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-01-08 01:45:20 +0800"
     },
     "done": true
   },
@@ -22990,6 +23405,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2024-01-07 23:57:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:15 +0800"
@@ -23155,6 +23576,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard_from_wooden_top": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -23581,6 +24008,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:28 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_willow": {
+    "criteria": {
+      "has_plank": "2024-01-08 00:00:22 +0800"
     },
     "done": true
   },
@@ -24592,6 +25025,12 @@
     },
     "done": true
   },
+  "cavesandcliffs:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-07 22:20:35 +0800"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:34:59 +0800"
@@ -24709,6 +25148,12 @@
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:19 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2024-01-07 22:37:39 +0800"
     },
     "done": true
   },
@@ -24844,6 +25289,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_leggings": {
+    "criteria": {
+      "has_steel": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_bridge_pier": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:14 +0800"
@@ -24883,6 +25334,12 @@
   "betterendforge:recipes/betterendforge/helix_tree_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:05 +0800"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -24997,6 +25454,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_yellow": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -25141,6 +25604,12 @@
   "floormats:recipes/connected/nether/warped_stem/connected_gilded_warped_stem": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:21 +0800"
+    },
+    "done": true
+  },
+  "natural-progression:craft_improved_saw": {
+    "criteria": {
+      "get_improved_saw": "2024-01-08 00:00:13 +0800"
     },
     "done": true
   },
@@ -25303,6 +25772,12 @@
   "aquaculture:recipes/tools/neptunium_hoe": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:15 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2024-01-07 23:57:39 +0800"
     },
     "done": true
   },
@@ -25756,6 +26231,13 @@
     },
     "done": true
   },
+  "vanillafoodpantry:mod/bravestomach": {
+    "criteria": {
+      "eat_wolf": "2024-01-08 03:30:12 +0800",
+      "eat_wolf_raw": "2024-01-08 04:06:24 +0800"
+    },
+    "done": false
+  },
   "embellishcraft:recipes/embellishcraft_group/warning_steel_door": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:18 +0800"
@@ -26089,6 +26571,12 @@
   "embellishcraft:recipes/embellishcraft_group/polished_terracotta_stairs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:21 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -26716,6 +27204,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/diorite_rooftiles_from_slabs": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:15 +0800"
@@ -26854,6 +27348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:24 +0800"
@@ -26926,6 +27426,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2024-01-07 22:29:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:01 +0800"
@@ -26947,6 +27453,12 @@
   "minecraft:recipes/embellishcraft_group/purple_oak_fancy_bed_from_white": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-01-07 22:48:09 +0800"
     },
     "done": true
   },
@@ -27019,6 +27531,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -27130,6 +27648,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:01 +0800"
@@ -27235,6 +27759,12 @@
   "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
+    },
+    "done": true
+  },
+  "buddycards:main/epic_card": {
+    "criteria": {
+      "set1_epic": "2024-01-07 23:54:30 +0800"
     },
     "done": true
   },
@@ -27439,6 +27969,12 @@
   "betterendforge:recipes/betterendforge/iron_bulb_lantern_black": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
     },
     "done": true
   },
@@ -28099,6 +28635,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_registry": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:26 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_willow": {
+    "criteria": {
+      "has_plank": "2024-01-08 00:00:22 +0800"
     },
     "done": true
   },
@@ -29116,6 +29658,13 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-01-07 23:25:22 +0800",
+      "in_better_skeleton_dungeon": "2024-01-07 23:21:13 +0800"
+    },
+    "done": false
+  },
   "betterendforge:recipes/betterendforge/granite_pedestal": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:04 +0800"
@@ -29509,6 +30058,12 @@
   "minecraft:recipes/embellishcraft_group/slate_tiles_pressure_plate_from_slate_tiles_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:14 +0800"
+    },
+    "done": true
+  },
+  "cavesandcliffs:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-01-08 01:45:10 +0800"
     },
     "done": true
   },
@@ -30346,6 +30901,12 @@
     },
     "done": true
   },
+  "vanillafoodpantry:mod/test": {
+    "criteria": {
+      "vanilla_is_done": "2024-01-08 02:14:37 +0800"
+    },
+    "done": false
+  },
   "embellishcraft:recipes/embellishcraft_group/red_corrugated_metal_plate_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:17 +0800"
@@ -30391,6 +30952,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:06 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2024-01-07 23:47:51 +0800"
     },
     "done": true
   },
@@ -30462,6 +31029,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-01-07 22:50:44 +0800",
       "minecraft:river": "2024-01-06 22:03:16 +0800",
       "minecraft:lukewarm_ocean": "2024-01-06 22:01:33 +0800"
     },
@@ -30575,6 +31143,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-01-08 00:05:12 +0800"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_crafting_grid": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:22 +0800"
@@ -30632,6 +31206,12 @@
   "embellishcraft:recipes/embellishcraft_group/cyan_corrugated_metal_plate_fence": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-01-08 00:12:12 +0800"
     },
     "done": true
   },
@@ -30764,6 +31344,12 @@
   "minecraft:recipes/misc/diamond_from_blasting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:21 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2024-01-07 22:32:39 +0800"
     },
     "done": true
   },
@@ -31184,7 +31770,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-01-06 23:57:14 +0800",
-      "beetroot_soup": "2024-01-06 23:50:08 +0800"
+      "sweet_berries": "2024-01-08 02:29:10 +0800",
+      "cooked_beef": "2024-01-07 22:57:15 +0800",
+      "beetroot_soup": "2024-01-06 23:50:08 +0800",
+      "bread": "2024-01-08 01:41:53 +0800"
     },
     "done": false
   },
@@ -31824,6 +32413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:00 +0800"
@@ -31878,9 +32473,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-01-08 00:10:51 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
+    "criteria": {
+      "has_ore_copper": "2024-01-07 22:20:35 +0800"
     },
     "done": true
   },
@@ -32061,6 +32668,12 @@
   "embellishcraft:recipes/embellishcraft_group/polished_terracotta_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-01-06 21:35:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2024-01-07 22:58:29 +0800"
     },
     "done": true
   },
